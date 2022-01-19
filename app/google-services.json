@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783001481714",
+    "firebase_url": "https://coupdegrace-929b8.firebaseio.com",
+    "project_id": "coupdegrace-929b8",
+    "storage_bucket": "coupdegrace-929b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783001481714:android:80a514c9c2302a26",
+        "android_client_info": {
+          "package_name": "com.derebeylik.coupdegrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783001481714-b1ecicnjkknckahog187r2r8a3upgj1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTaD-bFMbRpcoWIdf2Q_N1NZgLaVoxUxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783001481714-b1ecicnjkknckahog187r2r8a3upgj1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
